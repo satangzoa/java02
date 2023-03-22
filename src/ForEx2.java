@@ -9,7 +9,7 @@ public class ForEx2 {
 	
 	for (int i = 1; i <= 100; i++) {
 		if(i % 2 == 1) //홀수이면
-			continue; //다음 번 반복을 수행
+			continue; //다음 번 반복을 수행 
 		System.out.println(i);
 	}
 	}
